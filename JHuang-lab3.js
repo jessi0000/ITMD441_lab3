@@ -1,3 +1,5 @@
+// Jinming Huang
+// ITMD 441 Undergraduate
 
 // Exercise 1
 function minMaxAverage(numbers) {
